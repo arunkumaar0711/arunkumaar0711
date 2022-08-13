@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arun
 - 👀 I’m interested in front-end development and excited to create my own blogfolio
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning NextJS,React,ServiceNow Scripting
 - 📫 How to reach me - Gmail arunkumaar0711@gmail.com
 
 <!---
